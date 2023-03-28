@@ -15,7 +15,8 @@
 # 7 - Run 'git --version' in your terminal. What is the output?
 # git version 2.39.0
 # 8 - Why would you run the command 'git status'?
-# verify you are in the right folder and also show code that has changes
+# verify you are in the right folder and also show code that has changes that are not staged
 # 9 - What does the command 'git add .' do?
-
+# adds the pending changes to be staged
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+# git push origin main
